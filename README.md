@@ -17,4 +17,9 @@ The languages and tools that we spend our time together:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-hydra&layout=compact)](https://a-goodarzi.ir)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M-r-hydra)](https://a-goodarzi.ir)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-r-hydra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-r-hydra&repo=convoychat" />
+</a>
