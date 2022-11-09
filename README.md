@@ -16,3 +16,5 @@ The languages and tools that we spend our time together:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-hydra&layout=compact)](https://a-goodarzi.ir)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M-r-hydra)](https://a-goodarzi.ir)
