@@ -1,6 +1,10 @@
 # I AM Ali 👋
-Ali Goudarzi. I'm a Frontend Web Developer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript .
-These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js, etc.
+<p align="center">
+I am Ali, a 22-year-old front-end developer with +1 years of building e-commerce websites and apps in fast-paced collaborative environments.
+I have been learning JavaScript for more than 2 years now, every single day! I’m doing ok with JavaScript in my humble opinion!
+additionally, I like to think that I specialized in ReactJS. I’ve been working professionally as React developer for 1 years now.
+Moreover , I am also a quick learner and have a curiosity that leads me to constantly explore and learn new things 🔥
+<p>
 
 you can see my website at => https://a-goodarzi.ir
 
