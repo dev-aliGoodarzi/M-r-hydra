@@ -1,5 +1,5 @@
 # I AM Ali 👋
-<p align="center">
+<p align="left">
 I am Ali, a 22-year-old front-end developer with +1 years of building e-commerce websites and apps in fast-paced collaborative environments.
 I have been learning JavaScript for more than 2 years now, every single day! I’m doing ok with JavaScript in my humble opinion!
 additionally, I like to think that I specialized in ReactJS. I’ve been working professionally as React developer for 1 years now.
@@ -28,8 +28,7 @@ you can see my website at => https://a-goodarzi.ir
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-hydra&layout=compact)](https://a-goodarzi.ir)
 <br />
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=M-r-hydra&show_icons=true&theme=dark"/> 
-</p>
 <br />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=M-r-hydra&theme=dark)](https://git.io/streak-stats)
