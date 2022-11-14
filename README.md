@@ -17,6 +17,8 @@ The languages and tools that we spend our time together:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-hydra&layout=compact)](https://a-goodarzi.ir)
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-r-hydra&theme=radical)](https://github.com/nafasebra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-r-hydra&show_icons=true&theme=dark"/> 
+</p>
 <br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=M-r-hydra&theme=dark)](https://git.io/streak-stats)
