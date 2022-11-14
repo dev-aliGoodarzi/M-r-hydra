@@ -16,9 +16,7 @@ you can see my website at => https://a-goodarzi.ir
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-  <br/>
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-  <br/>
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
 
