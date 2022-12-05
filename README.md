@@ -1,4 +1,4 @@
-# I AM Ali 👋
+# I'm Ali 👋
 <p align="left">
 a 22-year-old front-end developer with +1 years of building e-commerce websites and apps in fast-paced collaborative environments.
 I have been learning JavaScript for more than 2 years now, every single day! I’m doing ok with JavaScript in my humble opinion!
