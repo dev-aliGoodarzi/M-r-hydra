@@ -1,4 +1,4 @@
-# I'm Ali 👋
+# I'm Ali 👋 
 <p align="left">
 a 22-year-old front-end developer with +1 years of building e-commerce websites and apps in fast-paced collaborative environments.
 I have been learning JavaScript for more than 2 years now, every single day! I’m doing ok with JavaScript in my humble opinion!
@@ -6,7 +6,7 @@ additionally, I like to think that I specialized in ReactJS. I’ve been working
 Moreover , I am also a quick learner and have a curiosity that leads me to constantly explore and learn new things 🔥 .
 <p>
 
-you can see my website at => https://a-goodarzi.ir
+you can see my website @ (at) => https://a-goodarzi.ir
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ali-goudarzi-79a07a238/)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/mobogram_server)
